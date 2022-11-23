@@ -1,0 +1,8 @@
+{
+    "name": "GameJoltDemos",
+    "references": [
+        "GameJoltRuntime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scene/_Game/TMG4Scenes/Core/InitializeGame.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

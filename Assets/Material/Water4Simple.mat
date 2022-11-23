@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: Water4Simple
+  m_Shader: {fileID: 4800000, guid: 8c182358cf6ebf84eac98a39eed959a2, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 12293e5f8e2be8045b75803a80547eed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FresnelScale: 0.1
+    - _GerstnerIntensity: -2.5
+    - _HeightDisplacement: 2.337032
+    - _NormalsDisplacement: 72.72728
+    - _Shininess: 100
+    m_Colors:
+    - _AnimationDirection: {r: 2, g: 1, b: -1, a: 1}
+    - _AnimationTiling: {r: 0.4, g: 0.391, b: 0.56, a: 0.7}
+    - _BaseColor: {r: 0, g: 0, b: 0, a: 0.6862745}
+    - _BumpDirection: {r: 1, g: 1, b: 1, a: -5}
+    - _BumpTiling: {r: 0.01, g: 0.01, b: 0.01, a: 0.01}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DepthColor: {r: 0.2981176, g: 0.3661172, b: 0.3955224, a: 0.345098}
+    - _DistortParams: {r: -4, g: -0.5, b: 0.1, a: -3}
+    - _Foam: {r: 0.3275862, g: 0.7471264, b: 0, a: 0}
+    - _GAmplitude: {r: 0.3, g: 0.2, b: 0.25, a: 0.25}
+    - _GDirectionAB: {r: 0.85, g: 0.3, b: 0.25, a: 0.25}
+    - _GDirectionCD: {r: -0.3, g: -0.9, b: 0.5, a: 0.5}
+    - _GFrequency: {r: 0.5, g: 0.25, b: 0.6, a: 0.245}
+    - _GSpeed: {r: 4, g: 2, b: 1, a: 1}
+    - _GSteepness: {r: 3.030131, g: 1, b: 1, a: 1}
+    - _InvFadeParemeter: {r: 0.001, g: 0.08562102, b: 0.09414239, a: 0}
+    - _ReflectionColor: {r: 0, g: 0, b: 0, a: 0.7843137}
+    - _RefractionFog: {r: 0.8681778, g: 0.8797176, b: 0.8880597, a: 1}
+    - _SpecularColor: {r: 0, g: 0, b: 0, a: 1}
+    - _WorldLightDir: {r: 0.01399237, g: -0.1735908, b: -0.9847186, a: 0}

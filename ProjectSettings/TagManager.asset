@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PSound
+  - Camera1
+  - CameraOne
+  - Loader
+  - Target
+  - Shaker
+  - UIVisualControls
+  - UICamera
+  - Ink
+  - Stairs
+  - DeepInk
+  - SammyTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Credits
+  - Weapon
+  - BreakablePlank
+  - StaticPlank
+  - Trigger
+  - LightFixture
+  - EventTrigger
+  - Furnature
+  - Invisible
+  - InvisibleCollider
+  - SearcherTrigger
+  - 
+  - Ai
+  - Joints
+  - Ai_Ignore
+  - SelfDefault
+  - 
+  - 
+  - 
+  - 
+  - 
+  - UIParticles
+  - Locked
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

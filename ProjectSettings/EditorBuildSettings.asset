@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/_Game/TMG4Scenes/Core/InitializeGame.unity
+    guid: 8ad94129e59582b4384abe06239a8340
+  - enabled: 1
+    path: Assets/Scene/_Game/TMG4Scenes/Core/MainMenu.unity
+    guid: 242d5785c30cd264ba269ef403da67f9
+  - enabled: 1
+    path: Assets/Scene/_Game/TMG4Scenes/Core/Chapters/ChapterOne/ChapterOne.unity
+    guid: fcde2e4d07de14358bf6558c4053d96d
+  - enabled: 1
+    path: Assets/Scene/_Game/TMG4Scenes/Core/Chapters/ChapterTwo/ChapterTwo.unity
+    guid: d2e20df8c7b144080b36ac30fd2b6571
+  - enabled: 1
+    path: Assets/Scene/_Game/TMG4Scenes/Core/Credits.unity
+    guid: 1e12a281e0632ac47ba9f293f7d7569e
+  - enabled: 1
+    path: Assets/Scene/_Game/TMG4Scenes/Core/Reset.unity
+    guid: a201970f070f04045b5190a37636ba25
+  m_configObjects: {}
