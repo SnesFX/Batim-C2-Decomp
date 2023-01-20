@@ -5,6 +5,6 @@ The repository for my BATIM Old Chapter 2 Decompilation
 
 # Credits
 
-- Zero0xx (me!) - The Decompilation!
+- SnesFX (me!) - The Decompilation!
 
-- Joey Drew Studio's - Bendy and The Ink Machine 
+- Joey Drew Studios - Bendy and The Ink Machine 
